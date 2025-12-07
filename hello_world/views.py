@@ -1,6 +1,6 @@
 from hello_world import app
-from hello_world.formatter import get_formatted
-from hello_world.formatter import SUPPORTED
+from hello_world.formater import get_formatted
+from hello_world.formater import SUPPORTED
 from flask import request
 
 
